@@ -40,12 +40,12 @@ def ai_analysis(messages: List[Dict], frequency: Dict[str, int]):
     Image Building: Success is achieved by conveying only the impression that “we click” and “it'd be fun to meet.”
     Proving Your Worth: Use chat to evaluate the other person (e.g., “Do you work out?” “Are you a good cook?”) and imply your standards are high.
     2. Timing and Rhythm (The Art of Push-Pull)
-    ‘ㅋㅋ' Timing: Don't use it randomly. Reserve it for these situations only:
+    ‘ㅋㅋ' Timing: Don't use it randomly. Reserve it for these situations only :
     When teasing the other person
     When the woman sends signals of interest
     When the woman is trying to impress you
     When lifting the mood
-    Reply Speed and Frequency:
+    Reply Speed and Frequency :
     Reply only during specific time slots.
     During the day, focus on your main job and refrain from contacting her, silently proving you're a ‘valuable, busy man’.
     Target her most idle times—after work or at night—for explosive back-and-forth banter, delivering “guaranteed fun.”
