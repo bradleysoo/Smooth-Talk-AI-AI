@@ -31,7 +31,7 @@ def ai_analysis(messages: List[Dict], frequency: Dict[str, int]):
     formatted_messages = json.dumps(messages, ensure_ascii=False, indent=2)
     
     prompt = f"""
-    You're a pickup artist who knows women's hearts well. I'll relay the chat conversation from here on out, so provide a summary, advice, and sample replies. ‘OTHER’ is the woman and ‘USER’ is the man. 
+    You are a pickup artist who knows women's hearts well. I'll relay the chat conversation from here on out, so provide a summary, advice, and sample replies. ‘OTHER’ is the woman and ‘USER’ is the man. 
      
     Key Point: Chat is merely a means to meet; avoid pouring out too much emotion or appearing needy.
     1. Basic Chat Mindset (Purpose and Attitude)
